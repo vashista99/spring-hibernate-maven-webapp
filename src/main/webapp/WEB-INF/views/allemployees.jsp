@@ -16,7 +16,7 @@
 </head>
 
 
-<boy>
+<body>
 	<h2>List of Emp's in Dev Env</h2>	
 	<img src="">
 	<table>

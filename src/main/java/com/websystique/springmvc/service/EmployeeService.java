@@ -1,4 +1,4 @@
-package com.websystique.springmvc.service;
+package com.websystique.springmvc.servic;
 
 import java.util.List;
 
